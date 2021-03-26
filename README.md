@@ -1,6 +1,12 @@
 # Team-Agreement
 Team agreement for our Code 201 final project.
 
+## Team Members
+- Tim Egorov
+- Rinat Galeev
+- Hunter Britten
+- Daniel Haugen
+
 
 ## Conflict Plan
 
